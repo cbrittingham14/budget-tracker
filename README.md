@@ -6,7 +6,7 @@ If the user's internet connection is interrupted at any point they will still be
 
 ## screenshots
 
-[app image](./public/screenshot1.png)
+[app image](/public/screenshot1.png)
 
 ## links
 [Deployed application](https://radiant-spire-30505.herokuapp.com/)
